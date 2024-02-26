@@ -10,6 +10,9 @@ dependencies:
   flutter:
     sdk: flutter
 
+dependencies:
+  appwrite: ^11.0.1
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
